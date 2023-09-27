@@ -1,15 +1,13 @@
 <h1 align="center">hey there 👋🏼</h1>
 
-<p align="center">
-  - 👩‍💻 Currently studying software development
-  - 🧠 Always willing to learn new things!
-  - 📫 How to reach me: l.colladomartinrq@gmail.com
-</p>
+- 👩‍💻 Currently studying software development
+- 🧠 Always willing to learn new things!
+- 📫 How to reach me: l.colladomartinrq@gmail.com
 
 
 
-<h3 align="center"> 🛠 Languages and Tools</h3>
-<p align="center">
+<h3 align="left"> 🛠 Languages and Tools</h3>
+<p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
