@@ -1,8 +1,11 @@
 <h1 align="center">hey there 👋🏼</h1>
 
-- 👩‍💻 Currently studying at 42Madrid
-- Always willing to learn new things!
-- 📫 How to reach me: l.colladomartinrq@gmail.com
+<p align="center">
+  - 👩‍💻 Currently studying software development
+  - 🧠 Always willing to learn new things!
+  - 📫 How to reach me: l.colladomartinrq@gmail.com
+</p>
+
 
 
 <h3 align="center"> 🛠 Languages and Tools</h3>
